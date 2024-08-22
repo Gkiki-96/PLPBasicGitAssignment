@@ -1,2 +1,2 @@
 # PLPBasicGitAssignment
-Hands-On Assignment
+PLPBasicGitAssignment
